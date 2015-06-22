@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Page Elements View feature.
+ */
+
+include_once 'page_elements_view.features.inc';
